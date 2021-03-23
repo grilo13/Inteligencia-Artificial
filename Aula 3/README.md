@@ -1,0 +1,1 @@
+- É necessário o ficheiro pni2 da aula anterior
